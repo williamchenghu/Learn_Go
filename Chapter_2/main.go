@@ -13,6 +13,8 @@ func main() {
 
 	fmt.Println("4 / 4 =", 4 / 4)
 
+	fmt.Println("3 % 2 =", 3 % 2)
+
 	//let's test some string
 	fmt.Println(len("Hello, World")) //len function calculates the length of this string "Hello, World", notice space counts as well
 
